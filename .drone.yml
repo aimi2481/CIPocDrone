@@ -6,4 +6,3 @@ steps:
   image: node
   commands:
   - npm ci
-  - npm run test:unit
